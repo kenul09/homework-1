@@ -259,7 +259,7 @@ body {
     gap: 80px;
 }
 
-.footer-col h4 {
+.footer-col  .name{
     margin-bottom: 18px;
     color: white;
     font-size: 16px;
