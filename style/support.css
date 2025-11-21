@@ -182,7 +182,6 @@ nav ul li a.active {
     opacity: 1;
 }
 
-/* Right columns */
 .footer-columns {
     display: flex;
     gap: 80px;
