@@ -45,7 +45,7 @@ nav ul li a.active {
     color: #161C2D;
 }
 
-& p {
+p {
     margin-top: 20px;
     font-size: 18px;
     line-height: 1.6;
@@ -81,7 +81,7 @@ nav ul li a.active {
 }
 
 .text-block h2 {
-<<<<<<< HEAD
+
     margin-top: 50px;
     font-size: 22px;
     font-weight: 700;
@@ -90,8 +90,6 @@ nav ul li a.active {
 
 
 .text-block h3 {
-=======
->>>>>>> main
     margin-top: 50px;
     font-size: 22px;
     font-weight: 700;
@@ -146,14 +144,6 @@ nav ul li a.active {
 }
 
 
-<<<<<<< HEAD
-=======
-
-
-
-
-
->>>>>>> main
 .footer {
     background: #1b2230;
     padding: 80px 0;
@@ -170,10 +160,6 @@ nav ul li a.active {
     gap: 80px;
 }
 
-<<<<<<< HEAD
-=======
-
->>>>>>> main
 .footer-left h2 {
     font-size: 32px;
     font-weight: 700;
