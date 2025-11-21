@@ -14,8 +14,9 @@
 }
 
 .logo {
-    font-size: 1.5rem;
+    font-size: 50 px;
     font-weight: 700;
+    color: #161C2D;
 }
 
 nav ul {
@@ -26,7 +27,7 @@ nav ul {
 
 nav ul li a {
     text-decoration: none;
-    color: #111;
+    color: #161C2D;
     font-weight: 700;
 }
 
@@ -34,12 +35,13 @@ nav ul li a.active {
     color: #ff6b4a;
 }
 
-.auth a {
+.about a {
     text-decoration: none;
     margin-left: 30px;
     font-weight: 600;
-    color: #161C2D;
+    color: #111;
 }
+
 
 .support-text {
     color: #161C2D;
